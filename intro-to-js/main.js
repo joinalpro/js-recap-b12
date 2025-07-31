@@ -23,4 +23,7 @@
 // price *=2
 // console.log(price);
 
-// // 
+
+if (3 < 10) {
+    console.log("I have smaller value.");
+}
