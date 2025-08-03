@@ -16,8 +16,17 @@
 // }
 // console.log(result);
 
-let yourName ;
-do {
-    yourName = prompt("Who are you?");
-}while (!yourName);
-console.log(yourName);
+// let yourName ;
+// do {
+//     yourName = prompt("Who are you?");
+// }while (!yourName);
+// console.log(yourName);
+
+// indentation
+
+if (false != true) {
+    console.log("That make sense.");
+    if (1 < 2){
+        console.log("No surprise there.");
+    }
+}
