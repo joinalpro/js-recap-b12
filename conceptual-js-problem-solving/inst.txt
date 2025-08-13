@@ -1,0 +1,5 @@
+problem solving steps
+1. Read the problem Carefully
+2. Solve with Yourself
+3. Think How can you implement it Programmatically
+4. Code, Test & Debug
