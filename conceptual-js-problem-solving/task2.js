@@ -12,5 +12,5 @@ function sumOfArray(arr){
     return sum;
 }
 
-let result = sumOfArray([1, 2, 'a'])
+let result = sumOfArray(1)
 console.log(result);
